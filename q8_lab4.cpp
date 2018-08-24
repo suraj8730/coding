@@ -29,4 +29,4 @@ int main(){
 	cout<<"your average mark is "<<A<<endl;
 	cout<<"your percentage is "<<setprecision(5)<< P<<"%"<<endl;
 	return 0;
-	}
+}
