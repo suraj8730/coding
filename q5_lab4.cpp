@@ -13,4 +13,4 @@ int main(){
 	//output
 	cout<<"the third angle of the triangle is "<<C<<"°"<<endl;
 	return 0;
-        }
+}
