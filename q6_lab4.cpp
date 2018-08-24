@@ -14,4 +14,4 @@ int main(){
 	//printing output
 	cout<<"area of the triangle having base "<<B<<"cm"<< " and height "<<H<<"cm"<<" is "<<A<<"cm²."<<endl;
 	return 0; 
-	}
+}
