@@ -16,4 +16,4 @@ int main(){
 	cout<<"you entered "<<d<< " days"<<endl;
 	cout<<d<<" day is "<<Y<<" year "<<W<<" week and "<<D<<" days"<<endl;
 	return 0;
-        }
+}
