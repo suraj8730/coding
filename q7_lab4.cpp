@@ -16,4 +16,4 @@ int main(){
 	//output
 	cout<<"area of triangle having side "<<"cm "<<"is "<< setprecision(8) <<A<<"cm²"<<endl;
 	return 0;
-	}
+}
